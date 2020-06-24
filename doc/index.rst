@@ -1,9 +1,9 @@
-Calculate Solutions
+How to Hausbau
 -------------------
 
-Learn how to add, subtract, multiply, and divide!
+Das große 1x1 des Häuslebauers
 
 .. toctree::
 
-    multiplication
-    negation
+    sec_1
+    sec_2

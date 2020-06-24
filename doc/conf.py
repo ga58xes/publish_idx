@@ -1,5 +1,5 @@
 master_doc = 'index'
-project = "Calculate.Solutions"
-copyright = '2020, Calculate Solutions, Inc.'
-author = 'Calculate Solutions, Inc.'
+project = "BayBO Index"
+copyright = '2020, BayBO additional resources'
+author = 'ST'
 version = release = ''
