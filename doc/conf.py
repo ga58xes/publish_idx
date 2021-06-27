@@ -1,5 +1,5 @@
 master_doc = 'index'
-project = "BayBO Index"
-copyright = '2020, BayBO additional resources'
-author = 'ST'
-version = release = ''
+project = "Transalp 2021"
+copyright = 'HL corporations'
+author = 'MN - ST'
+version = release = 'v0.1'

@@ -1,7 +1,7 @@
-How to Hausbau
+Transalp 2021
 -------------------
 
-Das große 1x1 des Häuslebauers
+Planungsverzeichnis
 
 .. toctree::
 
